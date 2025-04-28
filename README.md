@@ -1,4 +1,5 @@
 # Architecture-Multiprocsessor-dan-Multipleprocsessor
+![image](https://github.com/user-attachments/assets/9f935d38-f1c4-489a-bdbc-4a5d66ce34ca)
 
 ## Bagian kiri = Symmetric Multiprocessor (SMP).
 Pada arsitektur ini, terdapat beberapa CPU — di gambar ini ada 4 CPU — yang masing-masing memiliki cache pribadi, yaitu L1 Cache 1, 2, 3, dan 4. L1 Cache adalah tempat penyimpanan data tercepat yang paling dekat dengan prosesor. Tujuannya adalah mempercepat akses ke data yang sering digunakan tanpa harus selalu mengakses memori utama.
